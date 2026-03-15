@@ -59,12 +59,12 @@ export const testimonials = [
     ]
   },
   {
-    title: "AI-Powered Task Manager",
-    description: "Smart task management application that uses AI to prioritize and categorize tasks, with team collaboration features.",
+    title: "AI-Powered Website Builder",
+    description: "Smart website builder application that uses AI to prioritize and categorize development, with team collaboration features.",
     image: "https://images.unsplash.com/photo-1554774853-aae0a22c8aa4?w=800&h=600&fit=crop",
     technologies: ["React", "Node.js", "OpenAI", "MongoDB", "WebSocket"],
-    liveUrl: "https://taskmanager-demo.com",
-    githubUrl: "https://github.com/johndoe/taskmanager",
+    liveUrl: "https://ai-website-builder-client-3pyx.onrender.com",
+    githubUrl: "https://github.com/shoaibkhan-bot/Ai-Website-Builder",
     features: [
       "AI task prioritization",
       "Real-time collaboration",
